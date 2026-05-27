@@ -1,4 +1,4 @@
-namespace service_eventos_eventual.Models;
+namespace checker.Models;
 
 public class Ticket
 {
@@ -7,10 +7,10 @@ public class Ticket
     public string QrCode { get; set; } = null!;
 
     public int PurchaseId { get; set; }
-    public Purchase Purchase { get; set; } = null!;
+    //public Purchase Purchase { get; set; } = null!;
 
     public int PerformanceSeatId { get; set; }
-    public PerformanceSeat PerformanceSeat { get; set; } = null!;
+   // public PerformanceSeat PerformanceSeat { get; set; } = null!;
 
     public int OwnerId { get; set; }
     public TicketStatus Status { get; set; }

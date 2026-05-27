@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "DRXBoiQBqrU=",
+  "dgSpecHash": "QBLlaRD2XI4=",
   "success": true,
   "projectFilePath": "/home/cohorte6/Desktop/dopple/ckecker/ckecker.csproj",
   "expectedPackageFiles": [
+    "/home/cohorte6/.nuget/packages/awssdk.core/4.0.7.3/awssdk.core.4.0.7.3.nupkg.sha512",
+    "/home/cohorte6/.nuget/packages/awssdk.s3/4.0.23.4/awssdk.s3.4.0.23.4.nupkg.sha512",
     "/home/cohorte6/.nuget/packages/microsoft.entityframeworkcore/9.0.0/microsoft.entityframeworkcore.9.0.0.nupkg.sha512",
     "/home/cohorte6/.nuget/packages/microsoft.entityframeworkcore.abstractions/9.0.0/microsoft.entityframeworkcore.abstractions.9.0.0.nupkg.sha512",
     "/home/cohorte6/.nuget/packages/microsoft.entityframeworkcore.analyzers/9.0.0/microsoft.entityframeworkcore.analyzers.9.0.0.nupkg.sha512",
@@ -17,8 +19,11 @@
     "/home/cohorte6/.nuget/packages/microsoft.extensions.logging.abstractions/9.0.0/microsoft.extensions.logging.abstractions.9.0.0.nupkg.sha512",
     "/home/cohorte6/.nuget/packages/microsoft.extensions.options/9.0.0/microsoft.extensions.options.9.0.0.nupkg.sha512",
     "/home/cohorte6/.nuget/packages/microsoft.extensions.primitives/9.0.0/microsoft.extensions.primitives.9.0.0.nupkg.sha512",
+    "/home/cohorte6/.nuget/packages/microsoft.win32.systemevents/6.0.0/microsoft.win32.systemevents.6.0.0.nupkg.sha512",
     "/home/cohorte6/.nuget/packages/mysqlconnector/2.4.0/mysqlconnector.2.4.0.nupkg.sha512",
-    "/home/cohorte6/.nuget/packages/pomelo.entityframeworkcore.mysql/9.0.0/pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512"
+    "/home/cohorte6/.nuget/packages/pomelo.entityframeworkcore.mysql/9.0.0/pomelo.entityframeworkcore.mysql.9.0.0.nupkg.sha512",
+    "/home/cohorte6/.nuget/packages/qrcoder/1.8.0/qrcoder.1.8.0.nupkg.sha512",
+    "/home/cohorte6/.nuget/packages/system.drawing.common/6.0.0/system.drawing.common.6.0.0.nupkg.sha512"
   ],
   "logs": []
 }

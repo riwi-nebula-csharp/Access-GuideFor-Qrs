@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ckecker")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7ef30506adfe840eb5ae964f4bb1bbc5bb26d8c8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ckecker")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ckecker")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
